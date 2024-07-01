@@ -9,7 +9,7 @@ npx @freshworks/ember-codemods modify-import path/of/files/ or/some**/*glob.js
 # or
 
 yarn global add @freshworks/ember-codemods
-ember-codemods modify-import path/of/files/ or/some**/*glob.js
+@freshworks/ember-codemods modify-import path/of/files/ or/some**/*glob.js
 ```
 
 ## Input / Output

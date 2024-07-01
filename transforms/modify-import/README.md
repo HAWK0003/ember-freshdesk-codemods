@@ -4,11 +4,11 @@
 ## Usage
 
 ```
-npx ember-codemods modify-import path/of/files/ or/some**/*glob.js
+npx @freshworks/ember-codemods modify-import path/of/files/ or/some**/*glob.js
 
 # or
 
-yarn global add ember-codemods
+yarn global add @freshworks/ember-codemods
 ember-codemods modify-import path/of/files/ or/some**/*glob.js
 ```
 
